@@ -13,7 +13,6 @@ public class VectorTest{
             }
 
             Thread removeThread = new Thread(new Runnable() {
-                @Override
                 public void run() {
                 	//synchronized (vector) {
                 		for (int i = 0; i < vector.size(); i++) {

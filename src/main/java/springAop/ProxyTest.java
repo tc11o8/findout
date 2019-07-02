@@ -4,7 +4,9 @@ public class ProxyTest {
 
 	public static void main(String[] args) {
 
-		cglibTest();
+//		cglibTest();
+		
+		jdkProxyTest();
 	}
 
 	public static void cglibTest() {
