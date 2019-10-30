@@ -19,7 +19,7 @@
 		<mybatis.version>3.2.6</mybatis.version>
 		<slf4j.version>1.7.7</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
-		<jackson.version>2.5.0</jackson.version>
+		<jackson.version>2.10.0</jackson.version>
 		<httpcore.version>4.4.3</httpcore.version>
 		<httpClient.version>4.5.1</httpClient.version>
 		<aspectj.version>1.8.9</aspectj.version>
